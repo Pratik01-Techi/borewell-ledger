@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="docs/screenshots/01-onboarding.png" alt="Borewell Ledger" width="100%" />
-
 # 💧 Borewell Ledger
 
 ### Know your groundwater before it runs dry.
@@ -74,42 +72,42 @@ Housing societies, farmers, water officers and NGOs log readings from borewells.
 ### Get started in seconds, no account needed
 Choose a role (Society Manager, Farmer, Water Officer / Panchayat, NGO / Volunteer) and a language, then dive in or explore the demo data.
 
-![Onboarding](docs/screenshots/01-onboarding.png)
+<img width="1763" height="1154" alt="Screenshot_11-10-2026_112321_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/2a321e6e-c079-4051-87ed-dd417756e495" />
 
 ### Dashboard
 Community overview with key stats, an **AI Insight of the Day**, wells that need attention, and recent alerts.
 
-![Dashboard](docs/screenshots/02-dashboard.png)
+<img width="1763" height="3174" alt="Screenshot_11-10-2026_112341_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/026eacca-9ddc-4012-9610-1e0eabbf6f8c" />
 
 ### Shared Map
 Every well on one map, colour-coded by status (Normal, Watch, Critical, No data), with filters, search and official-well markers.
 
-![Map](docs/screenshots/03-map.png)
+<img width="1763" height="853" alt="Screenshot_11-10-2026_11241_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/520a1c51-5689-4e59-ad0a-b9982bf08c4c" />
 
 ### Wells
 Search, sort by urgency and export to CSV. Each card shows depth, decline rate and the nearby peer median.
 
-![Wells](docs/screenshots/04-wells.png)
+<img width="1763" height="844" alt="Screenshot_11-10-2026_112430_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/07e38cfd-4df8-4889-b6d5-c48e726c27e2" />
 
 ### Alerts
 Transparent, rule-based alerts with the well's rate versus its peer median. Mark them seen or resolve them, and filter by All, New, Critical, Area-wide or Resolved.
 
-![Alerts](docs/screenshots/05-alerts.png)
+<img width="1763" height="3764" alt="Screenshot_11-10-2026_112524_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/edcbe52b-c6b7-4683-a034-af34520915af" />
 
 ### AI Assistant
 Ask questions about a specific well or all your wells. Every answer shows what it was based on (readings and nearby wells used).
 
-![AI Assistant](docs/screenshots/06-ai-assistant.png)
+<img width="1763" height="853" alt="Screenshot_11-10-2026_112542_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/97208a7e-d880-4be8-ac0c-8f60a99973f5" />
 
 ### Water-Saving Plan
 An AI-generated action plan grouped into **This Week**, **This Month** and **Before Summer**, with effort levels and indicative cost ranges in ₹. Export it to PDF.
 
-![Water-Saving Plan](docs/screenshots/07-water-plan.png)
+<img width="1763" height="1333" alt="Screenshot_11-10-2026_112614_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/daba9318-e69b-4fd8-93fc-6ef342cc8ea2" />
 
 ### Community Insights
 A hotspot ranking of localities by median decline rate, plus **coverage gaps** with a one-click invite to add more wells.
 
-![Community Insights](docs/screenshots/08-community.png)
+<img width="1763" height="868" alt="Screenshot_11-10-2026_112625_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/004d10ef-e236-48ae-9e3f-ea0622f445b8" />
 
 ---
 
