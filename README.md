@@ -6,7 +6,7 @@
 
 A community groundwater early-warning platform for India, powered by serverless AWS and Amazon Bedrock.
 
-[![Hackathon](https://img.shields.io/badge/WeMakeDevs%20×%20AWS-Environmental%20Hackathon%202024-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![Hackathon](https://img.shields.io/badge/WeMakeDevs%20×%20AWS-Environmental%20Hackathon%202026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![Track](https://img.shields.io/badge/Track-Heat%20%26%20Water-0EA5E9?style=for-the-badge)](#)
 [![Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T-XL3rzUCkU)
 [![Live App](https://img.shields.io/badge/🌐%20Try-Live%20App-0A5C8A?style=for-the-badge)](https://main.d3kbqo47f82ouc.amplifyapp.com/home)
@@ -87,7 +87,7 @@ Every well on one map, colour-coded by status (Normal, Watch, Critical, No data)
 ### Wells
 Search, sort by urgency and export to CSV. Each card shows depth, decline rate and the nearby peer median.
 
-<img width="1763" height="844" alt="Screenshot_11-10-2026_112430_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/07e38cfd-4df8-4889-b6d5-c48e726c27e2" />
+<img width="1763" height="5592" alt="Screenshot_11-10-2026_112513_main d3kbqo47f82ouc amplifyapp com" src="https://github.com/user-attachments/assets/e4e8bc2b-89aa-4dc4-8efa-aa0cc77c9364" />
 
 ### Alerts
 Transparent, rule-based alerts with the well's rate versus its peer median. Mark them seen or resolve them, and filter by All, New, Critical, Area-wide or Resolved.
